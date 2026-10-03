@@ -41,31 +41,36 @@ This analysis focuses on several questions:
 
 A scatter plot and linear trend line were used to examine the relationship between daily social media usage and mental health scores.
 The visualization shows a downward overall trend, suggesting that higher social media usage is associated with lower mental health scores within this dataset.
+https://github.com/popstefan480/DataSet/blob/main/Images/social_media_vs_mental_health.png
 
 ### AI Tool Usage vs Mental Health
 
 AI tool usage was compared with mental health scores to determine whether increased AI usage was associated with differences in reported mental health scores.
 A scatter plot and trend line were used to visualize the overall relationship.
+https://github.com/popstefan480/DataSet/blob/main/Images/AI_Tool_vs_Mental_Health.png
 
 ### Sleep vs Mental Health
 
 Sleep duration was compared with mental health scores to explore whether students who sleep more tend to have different mental health scores.
+https://github.com/popstefan480/DataSet/blob/main/Images/sleep_vs_mental_health.png
 
 ### Physical Activity vs Physical Health
 
 Physical activity hours were compared with physical health scores.
 The visualization was used to examine the relationship between increased physical activity and reported physical health.
+https://github.com/popstefan480/DataSet/blob/main/Images/physical_activity_vs_mental_health.png
 
 ### AI Tool Usage by Education Level
 
 Average daily AI tool usage was calculated for each education level.
+https://github.com/popstefan480/DataSet/blob/main/Images/AI_Tool_vs_Mental_Health.png
 
 | Education Level | Average Daily AI Usage |
 |---|---:|
 | High School | 2.57 hours |
 | College | 2.59 hours |
 | University | 2.62 hours |
-
+https://github.com/popstefan480/DataSet/blob/main/Images/average_AI_tool_vs_education_level.png
 AI tool usage was very similar across the three education groups in this dataset.
 
 ## Data Visualization Techniques
